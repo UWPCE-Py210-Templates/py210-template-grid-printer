@@ -3,4 +3,4 @@
 [Assignment Details](https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/grid_printer.html)
 
 
-Edit `grid_printer.py` file to add your code.
+Write your code in`grid_printer.py` file. 
